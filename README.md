@@ -99,7 +99,6 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 10. ¿Hubo mejora en el consumo de CPU o en los tiempos de respuesta? Si/No ¿Por qué?
 11. Aumente la cantidad de ejecuciones paralelas del comando de postman a `4`. ¿El comportamiento del sistema es porcentualmente mejor?
 
-
 ### Parte 2 - Escalabilidad horizontal
 
 #### Crear el Balanceador de Carga
@@ -195,9 +194,6 @@ newman run ARSW_LOAD-BALANCING_AZURE.postman_collection.json -e [ARSW_LOAD-BALAN
 * ¿Cuál es el propósito del *Network Security Group*?
 * Informe de newman 1 (Punto 2)
 * Presente el Diagrama de Despliegue de la solución.
-
-
-
 
 
 
